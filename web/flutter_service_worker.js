@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c18df364c4759620d5b3c16ea67def9a",
+  "assets/AssetManifest.json": "7c46a4f2807253738a8400603722e671",
 "assets/assets/font/IBMPlexSansKR-Regular.ttf": "bfda7e75d2d1185083f21c8ca014d0a1",
 "assets/assets/font/SeoulNamsanL.ttf": "1abe4387a825e7bf129f8d06680aa098",
 "assets/assets/page-1/images/-sKq.png": "1e30655be5c3c558013399bdcb7e502a",
@@ -107,6 +107,7 @@ const RESOURCES = {
 "assets/assets/page-1/images/school-1-Uhq.png": "8e46c307d5a57f66f68997594b23a8f4",
 "assets/assets/page-1/images/school-1.png": "8e46c307d5a57f66f68997594b23a8f4",
 "assets/assets/page-1/images/shadow_effect1.png": "0b62c1c02ecf74e914ff2744eee879bd",
+"assets/assets/page-1/images/soccer.png": "92b324ddcc62d4ec407c6141395741ab",
 "assets/assets/page-1/images/subtle-prism-1-bg-nf5.png": "7bc583d280998671cc812068c46289a0",
 "assets/assets/page-1/images/subtle-prism-1-bg.png": "7bc583d280998671cc812068c46289a0",
 "assets/assets/page-1/images/subtle-prism-1.png": "7bc583d280998671cc812068c46289a0",
@@ -127,9 +128,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "27969398be8a4cf21589ca905b5c41e9",
-"/": "27969398be8a4cf21589ca905b5c41e9",
-"main.dart.js": "a0fc7a6c9c9bd5fdae5af7c1070ed3fe",
+"index.html": "b02e8b650d609af930185ad67c22d0f9",
+"/": "b02e8b650d609af930185ad67c22d0f9",
+"main.dart.js": "eed0d69e0e5577c8a81713c3af73793f",
 "manifest.json": "4137147246a11ba2148318bc696c4202",
 "version.json": "389a6e6e6f34312743ca5f36467c84b5"
 };
